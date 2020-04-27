@@ -86,7 +86,7 @@
 	{ 'Name': 'US - Wyoming', 'FileName': 'USA_Wyoming' },
 	{ 'Name': 'India - Andaman And Nicobar', 'FileName': 'india_andaman_and_nicobar' },
 	{ 'Name': 'India - AndhraPradesh', 'FileName': 'india_andhra_pradesh' },
-	{ 'Name': 'India - Arunachal_pradesh', 'FileName': 'india_arunachal_pradesh' },
+	{ 'Name': 'India - Arunachal Pradesh', 'FileName': 'india_arunachal_pradesh' },
 	{ 'Name': 'India - Assam', 'FileName': 'india_assam' },
 	{ 'Name': 'India - Bihar', 'FileName': 'india_bihar' },
 	{ 'Name': 'India - Chandigarh', 'FileName': 'india_chandigarh' },
